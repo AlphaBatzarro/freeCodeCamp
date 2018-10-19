@@ -109,3 +109,6 @@ To get custom colors to use in CSS, you might find a color picker helpful. Some 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/colorzilla/" target="_blank">ColorZilla add-on for Firefox</a><br>
 <a href="http://www.colorhexa.com/" target="_blank">Explore different Hex colors</a><br>
 <a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM Color Contrast Checker</a>
+<a href="https://coolors.co/" target="_blank">Coolors: Generate Pleasing Color Schemes</a>
+<a href="http://colormind.io/" target="_blank">Colormind: an AI learning color scheme generator.</a>
+<a href="https://duotone.shapefactory.co/" target="_blank">Duotone by Shapefactory.</a> A great website to create duotone images using unsplash or uploading your own.
